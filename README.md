@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Judith301
 - 👀 I’m interested in web design, web development and software development.
 - 🌱 I’m currently learning git and github in software development.
-- 💞️ I’m looking to collaborate on data scientists.
+- 💞️ I’m looking to collaborate with data scientists and developers.
 - 📫 How to reach me judithigwe2019@gmail.com.
 
 <!---
